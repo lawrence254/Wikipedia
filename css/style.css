@@ -1,7 +1,35 @@
 #sidebar{
   margin-top:4%;
   max-width: 15%;
+  border-right: 1px solid #d8d8d8;
 }
 .nav{
   margin-top: 4%;
+}
+.rightnav{
+  position:absolute;
+  right:-1em;
+  top:70%;
+  margin-top:-2.4em;
+  width:38%;
+  min-width:25em;
+  font-size:95%;
+}
+.left{
+  position:absolute;
+  left:0;
+  top:0;
+}
+.mid{
+  position:absolute;
+  left:33%;
+  top:0;
+}
+.right{
+  position:absolute;
+  left:66%;
+  top:0;
+}
+.panelnews{
+  background: rgb(114, 166, 249,0.1);
 }
