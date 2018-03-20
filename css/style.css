@@ -33,13 +33,24 @@
 .headgreen{
   background: rgb(87, 219, 94);
   margin:1%;
+  padding: 1%;
   font-weight: bold;
 }
 .headblue{
   background: rgb(114, 166, 249);
   margin:1%;
+  padding: 1%;
   font-weight: bold;
 }
 .panelnews{
   background: rgb(114, 166, 249,0.1);
+}
+.panelnews p{
+  padding: 2%;
+}
+.panelarticles{
+    background: rgb(87, 219, 94,0.1);
+}
+.panelarticles p{
+  padding: 2%;
 }
